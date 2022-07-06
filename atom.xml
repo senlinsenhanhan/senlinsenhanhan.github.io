@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://senlinsenhanhan.github.io</id>
+    <title>我是森憨憨</title>
+    <updated>2022-07-06T00:33:03.362Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://senlinsenhanhan.github.io"/>
+    <link rel="self" href="https://senlinsenhanhan.github.io/atom.xml"/>
+    <subtitle>梦</subtitle>
+    <logo>https://senlinsenhanhan.github.io/images/avatar.png</logo>
+    <icon>https://senlinsenhanhan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 我是森憨憨</rights>
+    <entry>
+        <title type="html"><![CDATA[你好]]></title>
+        <id>https://senlinsenhanhan.github.io/post/ni-hao/</id>
+        <link href="https://senlinsenhanhan.github.io/post/ni-hao/">
+        </link>
+        <updated>2022-07-02T10:06:26.000Z</updated>
+        <content type="html"><![CDATA[<p>bilibili：我是森憨憨</p>
+]]></content>
+    </entry>
+</feed>
